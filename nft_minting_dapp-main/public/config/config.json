@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc4D4f597ec136B0B7165942481142858d0105314",
+  "SCAN_LINK": "https://bscscan.com/token/0xc4d4f597ec136b0b7165942481142858d0105314",
+  "NETWORK": {
+    "NAME": "Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Space Ape NFT",
+  "SYMBOL": "SpaceApeNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/spaceape-nft",
+  "SHOW_BACKGROUND": false
+}
